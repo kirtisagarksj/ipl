@@ -1,0 +1,17 @@
+#form-2 {
+  border: 5px px solid goldenrod;
+  background-color: rgb(241, 241, 241);
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+  cursor: pointer;
+  width: 242px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px silver;
+  transition: all 200ms ease;
+}
+
+.clickers {
+  margin-left: 400%;
+}
